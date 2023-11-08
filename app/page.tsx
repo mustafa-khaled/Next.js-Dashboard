@@ -1,6 +1,6 @@
+import { lusitana } from "@/app/ui/fonts";
 import AcmeLogo from "@/app/ui/acme-logo";
 import styles from "./ui/home.module.css";
-import { lusitana } from "@/app/ui/fonts";
 import Link from "next/link";
 import Image from "next/image";
 
